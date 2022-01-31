@@ -46,4 +46,8 @@ ________________________________________________________________________________
 
 ##Summary
 
-Bicycles are most utilized during rush hour 
+Bicycles are most often used during rush hour from 8 to 9 AM and from 5 to 7 PM on Monday through Friday. They are least used between 2 AM and 4 AM on any given day, so these are ideal times to perform maintenance.
+The majority of users are male annual subscribers, and most users check the bikes out for 5 minutes at a time.
+
+To gain a better understanding of the utilization of city bikes, it would be interesting to view usage data during different months of the year. Additionally, the average lifecycle of bicycles would be useful in determining the start-up cost of the company in Des Moines.
+
