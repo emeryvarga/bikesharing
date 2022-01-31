@@ -4,7 +4,10 @@
 
 The purpose of this analysis is to visualize key metrics of Citi Bike data in New York City. The visualizations are used to identify trends and presented to investors for a similar bike sharing company in Des Moines.
 
-[View the Tableau Story Here](https://public.tableau.com/app/profile/emery.varga/viz/NYCCitibikeChallenge_16435977370350/Story1?publish=yes)
+### [View the Tableau Story Here](https://public.tableau.com/app/profile/emery.varga/viz/NYCCitibikeChallenge_16435977370350/Story1?publish=yes)
+
+
+!(Images/August Peak Hours.png)[Images/August Peak Hours.png]
 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
