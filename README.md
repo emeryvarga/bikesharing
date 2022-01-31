@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview
 
@@ -44,6 +44,6 @@ Usage peaks from 5 PM to 7 PM and is at its lowest between 2AM and 4 AM.
 _____________________________________________________________________________________________________________________________________________________
 
 
-Summary:
+##Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Bicycles are most utilized during rush hour 
